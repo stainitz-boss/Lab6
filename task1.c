@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <locale.h>
 
-int main1()
+int main()
 {
     setlocale(LC_ALL, "RUS");
     int years;
