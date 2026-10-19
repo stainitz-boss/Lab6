@@ -18,7 +18,7 @@
 5. **Вывод** результата.
 6. **Конец**
 
-# Блок-схема
+## Блок-схема
 <img width="607" height="849" alt="image" src="https://github.com/user-attachments/assets/77cb8bed-6cd3-4045-9447-5d3431da63dd" />
 
 ## 2. Контрольные примеры
